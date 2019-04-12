@@ -1,24 +1,20 @@
-# README
+# Retail Therapy
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# User Stories 
+```
+As a User I can add a product to my shopping cart.
 
-Things you may want to cover:
+As a User I can remove a product from my shopping cart.
 
-* Ruby version
+As a User I can view the total price for the products in my shopping cart.
 
-* System dependencies
+As a User I can apply a voucher to my shopping cart.
 
-* Configuration
+As a User I can view the total price for the products in my shopping cart
+with discounts applied.
 
-* Database creation
+As a User I am alerted when I apply an invalid voucher to my shopping
+cart.
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+As a User I am unable to Out of Stock products to the shopping cart.
+```
